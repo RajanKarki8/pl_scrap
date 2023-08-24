@@ -1,2 +1,2 @@
 # pl_scrap
-just a premier league points table scraping . 
+just a premier league points table scrapper . 
