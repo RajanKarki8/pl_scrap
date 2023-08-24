@@ -1,0 +1,20 @@
+1 Brighton and Hove Albion, 6
+2 Manchester City, 6
+3 Arsenal, 6
+4 Brentford, 4
+5 Liverpool, 4
+6 Tottenham Hotspur, 4
+7 West Ham United, 4
+8 Newcastle United, 3
+9 Aston Villa, 3
+10 Nottingham Forest, 3
+11 Crystal Palace, 3
+12 Manchester United, 3
+13 Fulham, 3
+14 Bournemouth, 1
+15 Chelsea, 1
+16 Sheffield United, 0
+17 Luton Town, 0
+18 Burnley, 0
+19 Wolverhampton Wanderers, 0
+20 Everton, 0
